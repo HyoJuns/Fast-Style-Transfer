@@ -2,4 +2,4 @@
 Fast Style Transfer
 
 
-signed by leader (#20145130 "Introduction of")
+signed by leader (#20145130 "Introduction of Anaconda")
